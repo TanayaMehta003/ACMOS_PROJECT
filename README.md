@@ -1,6 +1,6 @@
 # ACMOS_PROJECT: CATEGORY 1
 
-Tech Plots
+## Tech Plots
 
 Vd=0.4
 w=1u
