@@ -11,7 +11,7 @@ w=1u
 ![nid_w_gm_id](https://github.com/user-attachments/assets/413c7b0c-4dd5-4f77-964f-c8551fd2a675)
 
 ### GM*RO V GM/ID
-![ngm_ro_v_ngm_id](https://github.com/user-attachments/assets/168560df-f366-4524-a0db-1d606d006fe9)
+![ngm_ro_v_ngm_id](https://github.com/user-attachments/assets/60a28f95-2d28-4d10-8ea8-63350b4468cb)
 
 ### FT V GM/ID
 ![nft_gm_id](https://github.com/user-attachments/assets/a2f56415-daad-44df-812a-d33e36928516)
